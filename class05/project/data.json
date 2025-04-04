@@ -1,0 +1,189 @@
+[
+	{
+		"pergunta": "Qual é o principal pokemon do Ash?",
+		"respostas": [
+			{
+				"opcao": "Pikachu",
+				"correto": true
+			},
+			{
+				"opcao": "Eevee",
+				"correto": false
+			},
+			{
+				"opcao": "Charmander",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Qual é o tipo do Pokémon Pikachu?",
+		"respostas": [
+			{
+				"opcao": "Fogo",
+				"correto": false
+			},
+			{
+				"opcao": "Elétrico",
+				"correto": true
+			},
+			{
+				"opcao": "Água",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Em qual região Ash começou sua jornada Pokémon?",
+		"respostas": [
+			{
+				"opcao": "Johto",
+				"correto": false
+			},
+			{
+				"opcao": "Kanto",
+				"correto": true
+			},
+			{
+				"opcao": "Hoenn",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Qual o nome do rival de Ash na região de Kanto?",
+		"respostas": [
+			{
+				"opcao": "Paul",
+				"correto": false
+			},
+			{
+				"opcao": "Trip",
+				"correto": false
+			},
+			{
+				"opcao": "Gary Oak",
+				"correto": true
+			}
+		]
+	},
+	{
+		"pergunta": "Qual o nome do Professor que deu a Ash seu primeiro Pokémon?",
+		"respostas": [
+			{
+				"opcao": "Professor Carvalho",
+				"correto": true
+			},
+			{
+				"opcao": "Professor Birch",
+				"correto": false
+			},
+			{
+				"opcao": "Professor Rowan",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Qual destes Pokémon evoluiu a partir de um Eevee?",
+		"respostas": [
+			{
+				"opcao": "Charmeleon",
+				"correto": false
+			},
+			{
+				"opcao": "Squirtle",
+				"correto": false
+			},
+			{
+				"opcao": "Vaporeon",
+				"correto": true
+			}
+		]
+	},
+	{
+		"pergunta": "Qual o nome do ataque assinatura do Pikachu?",
+		"respostas": [
+			{
+				"opcao": "Thunderbolt",
+				"correto": true
+			},
+			{
+				"opcao": "Flamethrower",
+				"correto": false
+			},
+			{
+				"opcao": "Water Gun",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Qual destes Pokémon NÃO foi um dos iniciais de Ash?",
+		"respostas": [
+			{
+				"opcao": "Bulbasaur",
+				"correto": false
+			},
+			{
+				"opcao": "Squirtle",
+				"correto": false
+			},
+			{
+				"opcao": "Mudkip",
+				"correto": true
+			}
+		]
+	},
+	{
+		"pergunta": "Qual a principal característica física do Pokémon Pikachu?",
+		"respostas": [
+			{
+				"opcao": "Duas bochechas vermelhas",
+				"correto": true
+			},
+			{
+				"opcao": "Uma cauda longa e azul",
+				"correto": false
+			},
+			{
+				"opcao": "Três chifres na cabeça",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Qual destes Pokémon é um tipo Psíquico?",
+		"respostas": [
+			{
+				"opcao": "Alakazam",
+				"correto": true
+			},
+			{
+				"opcao": "Arcanine",
+				"correto": false
+			},
+			{
+				"opcao": "Gyarados",
+				"correto": false
+			}
+		]
+	},
+	{
+		"pergunta": "Qual o objetivo principal de Ash em sua jornada Pokémon?",
+		"respostas": [
+			{
+				"opcao": "Capturar todos os Pokémon",
+				"correto": false
+			},
+			{
+				"opcao": "Tornar-se um Mestre Pokémon",
+				"correto": true
+			},
+			{
+				"opcao": "Encontrar um Pokémon Lendário",
+				"correto": false
+			}
+		]
+	}
+]
